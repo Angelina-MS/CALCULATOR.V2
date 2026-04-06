@@ -4,9 +4,15 @@ It also allows the user to view their calculation history and delete it. Compare
 calculation (e.g 30 + 2 ) rather than having to substitute values into 'a' and 'b'.
 
 What I learnt:
+
 -Error handling (division by 0)
+
 -While loops
+
 -Dictionaries
+
 -File handling(calculation history)
+
 -Defining functions
+
 -Input handling
